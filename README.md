@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Deploy Status](#deploy-status)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -66,3 +67,7 @@ footer {
 
 - Website - [Tushar Kaundal](https://stately-cobbler-a2ea46.netlify.app/)
 - Frontend Mentor - [@TusharKaundal](https://www.frontendmentor.io/profile/TusharKaundal)
+
+## Deploy Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/27f8b909-3a7a-4536-b5dc-f53d2b55c58a/deploy-status)](https://app.netlify.com/sites/stately-cobbler-a2ea46/deploys)
