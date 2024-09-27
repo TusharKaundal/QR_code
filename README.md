@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://stately-cobbler-a2ea46.netlify.app/).
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
