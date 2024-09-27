@@ -13,28 +13,32 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .card {
     padding: 16px 16px 40px 16px;
     background-color: hsl(0, 0%, 100%);
-    width: 320px;
-    height: 499px;
+    max-width: 20rem;
     border-radius: 20px;
 }
 
+.card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
 .card-container img {
-    width: 288px;
-    height: 288px;
     border-radius: 10px;
-    margin-bottom: 24px;
 }
 
 .details {
     padding: 0 16px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
 }
 
 .heading {
@@ -42,7 +46,6 @@ body {
     font-size: 22px;
     line-height: 120%;
     letter-spacing: 0px;
-    margin-bottom: 16px;
     color: hsl(218, 44%, 22%);
 }
 
