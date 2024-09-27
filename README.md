@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TusharKaundal/QR_code)
-- Live Site URL: [Add live site URL here](https://stately-cobbler-a2ea46.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/TusharKaundal/QR_code) ![alt text](image-1.png)
+- Live Site URL: [Live site URL](https://stately-cobbler-a2ea46.netlify.app/) ![alt text](image-2.png)
 
 ## My process
 
