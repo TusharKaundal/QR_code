@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/TusharKaundal/QR_code) 🎉🎉
-- Live Site URL: [Live site URL](https://stately-cobbler-a2ea46.netlify.app/) 🎊🎊
+- Solution URL: [Github](https://github.com/TusharKaundal/QR_code) 🎉🎉
+- Live Site URL: [NetLify](https://stately-cobbler-a2ea46.netlify.app/) 🎊🎊
 
 ## My process
 
@@ -37,6 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 - Learned how to adjust footer to bottom while being the display property being defined as flex.
+- Learned how to use Figma and using figma design to convert it into design using CSS
 
 ```
 body {
