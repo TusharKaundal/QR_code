@@ -40,7 +40,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Learned how to adjust footer to bottom while being the display property being defined as flex.
 - Learned how to use Figma and using figma design to convert it into design using CSS
 
-```
+```css
 body {
     background-color: hsl(212, 45%, 89%);
     display: flex;
