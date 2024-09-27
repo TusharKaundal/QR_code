@@ -59,8 +59,8 @@ footer {
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me in card creation using CSS - Flexbox.
-- [Example resource 2](https://www.example.comhttps://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe) - This is an amazing article which helped me in recommendation for hosting website.
+- [Resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me in card creation using CSS - Flexbox.
+- [Resource 2](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe) - This is an amazing article which helped me in recommendation for hosting website.
 
 ## Author
 
