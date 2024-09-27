@@ -54,7 +54,7 @@ footer {
 }
 ```
 
-- Will try to get better solution similiar cases with good solution
+- Will try to get better solution for similiar cases with good solution.
 
 ### Useful resources
 
