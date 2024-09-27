@@ -21,6 +21,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     max-width: 20rem;
     border-radius: 20px;
+    align-self: center;
 }
 
 .card-container {
@@ -30,7 +31,7 @@ body {
 }
 
 .card-container img {
-    border-radius: 10px;
+    border-radius: 10px
 }
 
 .details {
@@ -58,7 +59,7 @@ body {
 }
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 5px;
 }
 
